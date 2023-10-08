@@ -80,7 +80,7 @@ $current_page = "addaccount";
                                 <th>Name</th>
                                 <td><input type="text" name="name" class="form-control" required></td>
                                 <th>UID</th>
-                                <td><input name="number" class="form-control" required></td>
+                                <td><input type="number" name="uid" class="form-control" required></td>
                             </tr>
                             <tr>
                                 <th for="gender">Gender</th>
